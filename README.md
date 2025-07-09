@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adi-2012/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/adi-2012/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
