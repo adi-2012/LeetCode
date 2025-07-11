@@ -33,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/adi-2012/LeetCode/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/adi-2012/LeetCode/tree/master/0383-ransom-note) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/adi-2012/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/adi-2012/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
