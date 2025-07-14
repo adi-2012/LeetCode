@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/adi-2012/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/adi-2012/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/adi-2012/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/adi-2012/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
