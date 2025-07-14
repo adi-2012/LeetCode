@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/adi-2012/LeetCode/tree/master/0383-ransom-note) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/adi-2012/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/adi-2012/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
