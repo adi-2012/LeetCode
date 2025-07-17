@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adi-2012/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adi-2012/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/adi-2012/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adi-2012/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adi-2012/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/adi-2012/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -34,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adi-2012/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adi-2012/LeetCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/adi-2012/LeetCode/tree/master/0383-ransom-note) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adi-2012/LeetCode/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/adi-2012/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/adi-2012/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/adi-2012/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/adi-2012/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
