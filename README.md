@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adi-2012/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/adi-2012/LeetCode/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/adi-2012/LeetCode/tree/master/0383-ransom-note) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/adi-2012/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Hash Table
 |  |
 | ------- |
